@@ -1,4 +1,4 @@
-- 👋 Hi, I’m yelee
+- 👋 Hi, I’m young-eun lee
 - 👀 I’m interested in Front-end tech
 - 🌱 I’m currently learning Javascript, React and Vue
 - 📫 How to reach me ...bana426@gmail.com
